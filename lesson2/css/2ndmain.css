@@ -17,13 +17,13 @@ h1 {
     color: white;
     text-align: center;
     font-family: "Neucha", Helvetica, sans-serif;
-    font-size: 50px;
+    font-size: 30px;
     line-height: 50px;
 }
 
 h2 {
     font-family: "Neucha", Helvetica, sans-serif;
-    font-size: 40px;
+    font-size: 30px;
     color: rgb(0, 0, 0);
     text-align: center;
 }
@@ -34,7 +34,7 @@ h2 {
 
 h3 {
     font-family: "Neucha", Helvetica, sans-serif;
-    font-size: 25px;
+    font-size: 30px;
     color: rgb(2, 109, 109);
     text-align: center;
     margin-top: -20px;
@@ -101,9 +101,9 @@ footer a:hover {
     color: cyan;
 }
 footer {
-    background-color: rgb(2, 109, 109);
+    background-color: rgb(0, 0, 0);
     border-radius: 15px;
-    border: ridge bisque 15px;
+    border: ridge rgb(255, 255, 255) 15px;
     font-family: Helvetica;
     font-size: 22px;
     color: rgb(232, 252, 252);
