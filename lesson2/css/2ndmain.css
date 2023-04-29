@@ -2,7 +2,7 @@ body {
     max-width: 1280px;
     display: block;
     margin: auto;
-    background-color: azure;
+    background-color: rgb(73, 153, 153);
    /* margin-left: 70px;*/
 }
 
