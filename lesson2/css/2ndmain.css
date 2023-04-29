@@ -75,10 +75,10 @@ h3 {
     margin-left: 115px;
 }
 a:link, a:visited {
-    color:  rgb(247, 41, 141);
+    color:  rgb(192, 33, 33);
 }
 a:hover {
-    color: aqua;
+    color: rgb(0, 0, 0);
 }
 
 p {
